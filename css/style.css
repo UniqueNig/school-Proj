@@ -1,7 +1,4 @@
 /*------------------------------------------------------------------
-Project Name : International School System
-Desgined By  : EntireTimes
-Date        :  15 September 2020;
 
 [Table of contents]
 
@@ -60,7 +57,7 @@ a {
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   transition: all .3s ease;
-      color: #ffb607;
+      color: #076aff;
 }
 .unorderList {
   list-style: none;
@@ -99,7 +96,7 @@ ul.tick li:before {
   position: absolute;
   top: 0;
   left: 0;
-  color: #ffb607;
+  color: #076aff;
 }
 ul.tick li {
   margin-bottom: 10px;
@@ -122,7 +119,7 @@ ul.tick li {
 .title p {
   font-size: 20px;
   letter-spacing: 3px;
-  color: #ffb607;
+  color: #076aff;
   text-transform: uppercase;
   margin-bottom: 0;
 }
@@ -132,7 +129,7 @@ ul.tick li {
 .readmore a {
   text-decoration: none;
   font-size: 15px;
-  background: #f0aa00;
+  background: #076aff;
   text-transform: uppercase;
   border-radius: 36px;
   font-weight: bold;
@@ -161,9 +158,9 @@ ul.tick li {
 .header_info{display: flex; float: right; margin-top: 16px;}
 .header_info div{border-right: 1px solid #e8e8e8; padding-right: 26px; margin-right: 30px;}
 .header_info div:last-child{border:none; margin-right: 0; padding-right: 0;}
-.header_info .search a{width: 50px; height: 50px; background: #ffb607; color: #fff; border-radius: 100%; display: block; text-align: center;line-height: 50px; font-size: 16px;}
+.header_info .search a{width: 50px; height: 50px; background: #076aff; color: #fff; border-radius: 100%; display: block; text-align: center;line-height: 50px; font-size: 16px;}
 .loginwrp{}
-.loginwrp a{text-decoration: none; background: #ffb607; padding: 15px 34px; font-size: 16px; color: #fff; border-radius: 6px; display: inline-block; font-weight: bold;}
+.loginwrp a{text-decoration: none; background: #076aff; padding: 15px 34px; font-size: 16px; color: #fff; border-radius: 6px; display: inline-block; font-weight: bold;}
 .header-wrap .conInfo span {
   font-size: 12px;
   text-transform: uppercase;
@@ -233,22 +230,18 @@ ul.tick li {
 .navbar {
   padding: 0;
 }
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .nav-item:hover .nav-link {
-  color: #fff; background: #ffb607;
-}
+
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link:hover {
-  color: #fff; background: #ffb607;
+  color: #076aff; 
 }
-.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-  color: #fff; background: #ffb607;
-}
+
 .sticky {
   top: 0;
   position: fixed;
   width: 100%;
   left: 0;
   z-index: 10000;
-  background: #ffb607;
+  background: #076aff;
   height: 65px;
   margin-top: 0;
   -webkit-box-shadow: 0px 5px 7px rgba(3, 3, 3, 0.11);
@@ -301,7 +294,7 @@ ul.tick li {
   padding: 0;
 }
 .submenu > li:hover > a {
-  background: #ffb607;
+  background: #076aff;
   color: #fff !important;
 }
 .navbar-nav > li > ul > li > a {
@@ -369,7 +362,7 @@ ul.tick li {
   text-decoration: none;
 }
 .submenu_right li a:hover {
-  background: #c79935;
+  background: #076aff;
   color: #fff !important;
 }
 .submenu li:hover .submenu_right {
@@ -655,16 +648,16 @@ a.wit-btn {
   padding: 22px 40px;
   text-transform: uppercase !important;
   text-align: left;
-  background: #f0aa00;
+  background: #076aff;
   font-family: 'Open Sans', sans-serif;
 }
 .slidertext4 a:hover {
   background: #fff;
-  color: #ffb607 !important;
+  color: #076aff !important;
 }
 a.slidebtn {
   background: #fff;
-  color: #ffb607 !important;
+  color: #076aff !important;
   padding: 15px 30px;
   font-size: 16px;
   font-weight: normal !important;
@@ -682,8 +675,8 @@ a.slidebtn i {
   padding: 16px 40px;
 }
 .slidertext5 a:hover {
-  background: #f0aa00 !important;
-  color: #fff !important; border-color: #f0aa00;
+  background: #076aff !important;
+  color: #fff !important; border-color: #076aff;
 }
 @-webkit-keyframes bounce {
   0% {
